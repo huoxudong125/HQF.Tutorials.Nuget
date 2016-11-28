@@ -18,13 +18,13 @@ More info,refer [here](https://docs.nuget.org/ndocs/guides/install-nuget)
 ## Create a Package
 
 1.
-```nuget spec```
+```nuget spec```   
 
  ![NugetPack](Pics/NugetSpec.png)
 
 
 2.
-``` nuget pack [project name] ```
+``` nuget pack [project name] ```  
  ![nuget pack](Pics/NugetPack.png)
 
 
