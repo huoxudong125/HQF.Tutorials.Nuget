@@ -1,4 +1,4 @@
-# HQF.Tutorials.Nuget
+﻿# HQF.Tutorials.Nuget
 Demo project for Nuget Package.
 
 ## Install Nuget
@@ -13,6 +13,22 @@ More info,refer [here](https://docs.nuget.org/ndocs/guides/install-nuget)
 ### NuGetPackageExplorer
 
 [![NuGetPackageExplorer](https://cloud.githubusercontent.com/assets/5808377/11324261/06c2ccd8-912d-11e5-87e4-9898b2217baa.png)](https://github.com/NuGetPackageExplorer/NuGetPackageExplorer)
+
+
+## Create a Package
+
+1.
+```nuget spec```
+
+ ![NugetPack](Pics\NugetSpec.png)
+
+
+2.
+``` nuget [pack project name] ```
+ ![nuget pack](Pics/NugetPack.png)
+
+
+## Error
 
 
 ## Package for X64 and X86

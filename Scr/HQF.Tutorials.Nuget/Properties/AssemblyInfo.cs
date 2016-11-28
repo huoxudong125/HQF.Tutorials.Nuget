@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 // associated with an assembly.
 [assembly: AssemblyTitle("HQF.Tutorials.Nuget")]
 [assembly: AssemblyDescription("Test nuget package")]
-[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyConfiguration("Debug")]
 [assembly: AssemblyCompany("Microsoft")]
 [assembly: AssemblyProduct("HQF.Tutorials.Nuget")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2016")]
