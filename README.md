@@ -34,7 +34,10 @@ More info,refer [here](https://docs.nuget.org/ndocs/guides/install-nuget)
 [More info](https://github.com/NuGet/Home/issues/2714)
 
 -----
+2. Not Build Project
+![nuget pack](Pics/NotBuild.png)
 
+---
 
 ## Package for X64 and X86
 
