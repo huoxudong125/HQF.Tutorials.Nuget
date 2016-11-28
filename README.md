@@ -29,6 +29,11 @@ More info,refer [here](https://docs.nuget.org/ndocs/guides/install-nuget)
 
 
 ## Error
+1. Value cannot be null or an empty string.
+![nuget pack](Pics/ValueNull.png)
+[More info](https://github.com/NuGet/Home/issues/2714)
+
+-----
 
 
 ## Package for X64 and X86
