@@ -20,11 +20,11 @@ More info,refer [here](https://docs.nuget.org/ndocs/guides/install-nuget)
 1.
 ```nuget spec```
 
- ![NugetPack](Pics\NugetSpec.png)
+ ![NugetPack](Pics/NugetSpec.png)
 
 
 2.
-``` nuget [pack project name] ```
+``` nuget pack [project name] ```
  ![nuget pack](Pics/NugetPack.png)
 
 
