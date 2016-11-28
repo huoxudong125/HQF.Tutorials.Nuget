@@ -38,7 +38,17 @@ More info,refer [here](https://docs.nuget.org/ndocs/guides/install-nuget)
 ![nuget pack](Pics/NotBuild.png)
 
 ---
+3. Error need to specifi the parameter for `nuget pack`
+![nuget pack](Pics/NugetPackProp.png)  
 
+We should specify the prop parameter for `nuget pack`  
+such as  
+```
+nuget pakc [projectname] -prop platform=x64 -prop Configuration=Release
+```
+
+
+---
 ## Package for X64 and X86
 
 [How should I create or upload a 32-bit and 64-bit NuGet package?](http://stackoverflow.com/a/11376762/1616023)
